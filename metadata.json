@@ -1,0 +1,7 @@
+{
+  "name": " The Hidden expo",
+  "description": "An immersive digital exhibition exploring the olive heritage of a Tunisian village through community photography, literary narratives, and spatial audio. Now available as a Progressive Web App for offline access.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
